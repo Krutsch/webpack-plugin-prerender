@@ -1,0 +1,31 @@
+{
+  "name": "webpack-plugin-prerender",
+  "version": "1.0.0",
+  "description": "Generate pre-rendered HTML Files",
+  "main": "src/plugin.js",
+  "keywords": [
+    "webpack",
+    "bundle",
+    "plugin",
+    "webpack-plugin",
+    "html",
+    "render",
+    "prerender"
+  ],
+  "author": {
+    "name": "Fabian Krutsch",
+    "email": "f.krutsch@gmx.de",
+    "url": "https://krutsch.netlify.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "playwright": "^0.12.1",
+    "webpack": "^4.42.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krutsch/webpack-plugin-prerender.git"
+  },
+  "bugs": "https://github.com/Krutsch/webpack-plugin-prerender/issues"
+}
