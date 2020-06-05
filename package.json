@@ -35,6 +35,6 @@
     "@types/loader-utils": "2.0.0",
     "@types/node": "13.13.2",
     "@types/webpack": "4.41.17",
-    "typescript": "3.9.3"
+    "typescript": "3.9.5"
   }
 }
