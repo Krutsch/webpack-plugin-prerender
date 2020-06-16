@@ -32,7 +32,7 @@
   },
   "bugs": "https://github.com/Krutsch/webpack-plugin-prerender/issues",
   "devDependencies": {
-    "@types/loader-utils": "2.0.0",
+    "@types/loader-utils": "2.0.1",
     "@types/node": "13.13.2",
     "@types/webpack": "4.41.17",
     "typescript": "3.9.5"
