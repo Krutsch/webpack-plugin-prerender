@@ -34,7 +34,7 @@
   "devDependencies": {
     "@types/loader-utils": "2.0.1",
     "@types/node": "14.0.18",
-    "@types/webpack": "4.41.19",
+    "@types/webpack": "4.41.21",
     "typescript": "3.9.6"
   }
 }
